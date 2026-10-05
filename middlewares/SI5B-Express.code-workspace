@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "SI5B-Express",
+			"path": "../.."
+		},
+		{
+			"name": "frontend_uji",
+			"path": "../../frontend_uji"
+		}
+	],
+	"settings": {}
+}
